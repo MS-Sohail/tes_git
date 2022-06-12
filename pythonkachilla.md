@@ -18,8 +18,6 @@
 
 6. Now add remote by clicking on three dots at the top (remote) means the URL of your repository
 
-<!--- Following is the URL of my repository>
-
 7. https://github.com/MS-Sohail/tes_git.git
 
 8. Enter it on the top and then name it
