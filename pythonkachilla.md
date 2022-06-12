@@ -26,3 +26,8 @@
 
 9. Now Commit and write Commmit message
 
+10. Publish Branch
+
+11. Now push
+
+# Kaisa phir ho gaya na kaam
