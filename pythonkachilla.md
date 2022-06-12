@@ -28,4 +28,6 @@
 
 11. Now push
 
+12. Finally Synch.
+
 # Kaisa phir ho gaya na kaam
